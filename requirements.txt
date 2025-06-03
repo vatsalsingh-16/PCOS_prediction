@@ -1,0 +1,9 @@
+streamlit
+tensorflow==2.12
+scikit-learn
+xgboost
+matplotlib
+pandas
+numpy
+Pillow
+groq
